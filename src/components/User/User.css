@@ -1,0 +1,46 @@
+.userContainer {
+    width: 60%;
+    height: 250px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    color: rgb(85, 83, 83);
+    margin: auto;
+}
+
+.userImg {
+    float: left;
+    width: 300px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.userImg img {
+    border-radius: 50%;
+    width: 60%;
+}
+
+.userDetails {}
+
+.userDetails h2 {
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.userDetails p {
+    font-size: 20px;
+}
+
+.icon {
+    font-size: 50px;
+    color: green;
+    cursor: pointer;
+}
+
+.smallIcon {
+    font-size: 24px;
+    float: left;
+    margin-right: 15px;
+}
